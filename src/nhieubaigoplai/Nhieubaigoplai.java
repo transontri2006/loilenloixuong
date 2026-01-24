@@ -108,9 +108,9 @@ public class Nhieubaigoplai {
         ArrayList<String> names = new ArrayList<>();
         names.add("Tri");
         names.add("Hoang");
-        names.add("Tri");
         names.add("Huy");
-        names.add("Hoang");
+        names.add("Khang");
+        names.add("Hung");
         Set<String> uniqueNames = new LinkedHashSet<>(names);
         System.out.println("Bai 10: " + uniqueNames);
         ArrayList<Integer> bai11 = new ArrayList<>();
@@ -131,3 +131,4 @@ public class Nhieubaigoplai {
         System.out.println("Tong: " + sum);
     }
 }
+
